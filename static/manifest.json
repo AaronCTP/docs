@@ -1,13 +1,13 @@
 {
-  "name": "Jamdocs",
-  "short_name": "Jamdocs",
+  "name": "CTP Ethiopia Tech",
+  "short_name": "TEch",
   "icons": [
     {
-      "src": "logo-192.png",
+      "src": "logo.png",
       "sizes": "192x192"
     },
     {
-      "src": "logo-512.png",
+      "src": "logo.png",
       "sizes": "512x512"
     }
   ],
