@@ -16,8 +16,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.samuelhorn.com',
+  siteName: 'CTP Tech',
+  siteUrl: 'https://tech.ctpethiopia.org',
   templates: {
     Doc: '/:slug',
   },
