@@ -12,7 +12,7 @@ We will be updating files and adding pages as we incorporate more software and a
 
 As sessions start, we will also be adding guides on Authentication, assignment submissions methods, and other necessary activities for students and instructors.
 
-## **System Status**
+## System Status
 
 CTP is transparent on any system updates, upgrades, or new software installations.
 
@@ -20,7 +20,7 @@ We give out details on how the updates will affect personal accounts, and what y
 
 System Status is available at [status.my.ctpethiopia.org](https://status.my.ctpethiopia.org "Status")
 
-## **Updates and Support**
+## Updates and Support
 
 Updates will be given on CTP Ethiopia’s [Tech Page.](https://tech.ctpethiopia.org/ "Updates")
 
