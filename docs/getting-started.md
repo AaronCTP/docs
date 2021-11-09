@@ -1,21 +1,34 @@
 ---
-title: Getting started
-date: 2018-09-15 07:42:34
+title: About CTP
+date: 2018-09-15T07:42:34.000+00:00
 slug: getting-started
+
 ---
+## What is CTP Tech about?
 
-## What is Jamdocs
+This is a simple documentation page designed for hosting guides on the summer session programs at [CTP Ethiopia.](https://ctpethiopia.org/ "CTP")
 
-Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
+We will be updating files and adding pages as we incorporate more software and add customizations.
 
-## Local installation
+As sessions start, we will also be adding guides on Authentication, assignment submissions methods, and other necessary activities for students and instructors.
 
-Even though Jamdocs is so simple, you dont really need to set it up localy (you could just fork it on github to edit styles and md-files) - if you want to change it up a bit I recommend setting up localy for a better developer experience.
+### **System Status**
 
-To set up a new instance of Jamdocs, and start developing just clone the project from Github like, go to the directory and run gridsome:
+CTP is transparent on any system updates, upgrades, or new software installations.
 
-```bash
-git clone https://github.com/samuelhorn/jamdocs project-name
-cd project-name
-gridsome develop
-```
+We give out details on how the updates will affect personal accounts, and what you should do about these updates.
+
+System Status is available at [status.my.ctpethiopia.org](https://status.my.ctpethiopia.org "Status")
+
+## **Updates and Support**
+
+Updates will be given on CTP Ethiopia’s [Tech Page.](https://tech.ctpethiopia.org/ "Updates")
+
+For technical support, submit a ticket at our [Support Page](https://help.ctpethiopia.org/ "Support") or email us at [info@ctpethiopia.org](mailto:info%40ctpethiopia.org)
+
+## Contacting Us
+
+* Aaron Kebede [@aaronkebede](https://github.com/aaronkebede)  and [@AaronCTP]() on Github 
+* Benyam Eshete
+
+Suggestions to the docs can be given to the authors or by PRs.
