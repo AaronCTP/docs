@@ -4,8 +4,8 @@
       "section": "Introduction",
       "topics": [
         {
-          "title": "Support",
-          "slug": "support"
+          "title": "Instructor Guide",
+          "slug": " myctp-instructors"
         },
         {
           "title": "Getting started",
@@ -14,6 +14,10 @@
         {
           "title": "Identity Management",
           "slug": "iam"
+        },
+        {
+          "title": "Support",
+          "slug": "support"
         }
       ]
     }
