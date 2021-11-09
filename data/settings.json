@@ -8,19 +8,6 @@
           "slug": "getting-started"
         }
       ]
-    },
-    {
-      "section": "Setup",
-      "topics": [
-        {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
-        },
-        {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
-        }
-      ]
     }
   ]
 }
