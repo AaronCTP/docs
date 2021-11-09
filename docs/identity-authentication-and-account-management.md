@@ -4,11 +4,15 @@ date:
 slug: iam
 
 ---
+## Plan
+
 We will primarily be using Authentication with OAuth2 by Google.
 
 For the people who don’t have Google Accounts, we have planned to provide OpenID-based _CTP IDs_ so they can securely access our learning platform. In the long run, however, we are planning to build an authentication platform based on simpleSAMLphp on an LDAP server, but that is for another day.
 
 So, all the instructors, students, and admins will have an account primarily using authentication with Google oAuth2. If necessary, we will include manual accounts, i.e, using username and passwords(_deprecated_), or other OAuth2 platforms like _CTP ID_.
+
+## Implementation
 
 What is different this time is that when visiting a course, you will automatically be redirected to the login page. We have hidden the manual account login form, and the only way one can log in is using the Google OAuth2/ CTP ID. That way, we will have less heckle with resetting passwords and less confusion for starters.
 
