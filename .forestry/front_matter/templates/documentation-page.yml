@@ -16,4 +16,5 @@ fields:
   label: slug
 pages:
 - docs/editing-in-forestry.md
+- docs/identity-authentication-and-account-management.md
 - docs/support.md
