@@ -4,6 +4,8 @@ date: 2018-09-15T07:42:34.000+00:00
 slug: getting-started
 
 ---
+_The Old Documentation page is available at_ [_old.docs.ctpethiopia.org_](https://old.docs.ctpethiopia.org)
+
 ## What is CTP Tech about?
 
 This is a simple documentation page designed for hosting guides on the summer session programs at [CTP Ethiopia.](https://ctpethiopia.org/ "CTP")
