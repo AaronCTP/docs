@@ -17,4 +17,5 @@ fields:
 pages:
 - docs/identity-authentication-and-account-management.md
 - docs/instructor-myctp-app-guide.md
+- docs/old.md
 - docs/support.md
