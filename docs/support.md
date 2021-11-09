@@ -17,6 +17,6 @@ When submitting tickets on the CTP Support System, use the following steps.
 3. When you arrive at the sign-in page, click on the Google Logo and sign in with the email address associated with your CTP account.
 4. After signing in, you will be able to submit new tickets and view your past tickets.
 
-## One-Click Ticker Submission
+## One-Click Ticket Submission
 
 You can submit a support ticket without signing in by going to the following link: [https://help.ctpethiopia.org/portal/en/newticket](https://help.ctpethiopia.org/portal/en/newticket "https://help.ctpethiopia.org/portal/en/newticket")
