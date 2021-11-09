@@ -4,6 +4,10 @@
       "section": "Introduction",
       "topics": [
         {
+          "title": "Identity Management",
+          "slug": "iam"
+        },
+        {
           "title": "Getting started",
           "slug": "getting-started"
         }
