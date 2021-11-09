@@ -1,7 +1,7 @@
 ---
 title: About CTP
 date: 2018-09-15T07:42:34.000+00:00
-slug: getting-started
+slug: about
 
 ---
 ## What is CTP Tech about?
