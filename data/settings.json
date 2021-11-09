@@ -4,12 +4,16 @@
       "section": "Introduction",
       "topics": [
         {
-          "title": "Identity Management",
-          "slug": "iam"
+          "title": "Support",
+          "slug": "support"
         },
         {
           "title": "Getting started",
           "slug": "getting-started"
+        },
+        {
+          "title": "Identity Management",
+          "slug": "iam"
         }
       ]
     }
