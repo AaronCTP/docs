@@ -4,16 +4,16 @@
       "section": "Documentation",
       "topics": [
         {
-          "title": "Instructor Guide",
-          "slug": " myctp-instructors"
-        },
-        {
           "title": "Getting started",
           "slug": "getting-started"
         },
         {
           "title": "Identity Management",
           "slug": "iam"
+        },
+        {
+          "title": "Instructor Guide",
+          "slug": " myctp-instructors"
         },
         {
           "title": "Support",
